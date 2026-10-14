@@ -1,6 +1,7 @@
 # BookWise — Rule-Based Book Recommendation & Verification System
 
 > **A deterministic, explainable AI book discovery system built with the MERN stack (without database dependencies), featuring both Forward Chaining and Backward Chaining inference engines.**
+🚀 **Live Demo:** [https://bookwise-bay.vercel.app](https://bookwise-bay.vercel.app)
 
 ---
 
