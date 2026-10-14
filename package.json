@@ -1,0 +1,12 @@
+{
+  "name": "bookwise-root",
+  "version": "1.0.0",
+  "description": "BookWise — Rule-Based Book Recommendation System (MERN Stack without Database)",
+  "scripts": {
+    "server": "npm run start --prefix server",
+    "server:dev": "npm run dev --prefix server",
+    "client": "npm run dev --prefix client",
+    "client:build": "npm run build --prefix client",
+    "test:engine": "node server/test-engine.js"
+  }
+}
